@@ -15,4 +15,6 @@ RUN echo "deb http://www.rabbitmq.com/debian/ testing main" >> /etc/apt/sources.
 RUN apt-get update \
 	&& apt-get install -y rabbitmq-server
 
+COPY config/rabbitmq.config /etc/rabbitmq/
+
 CMD ["rabbitmq-server"]

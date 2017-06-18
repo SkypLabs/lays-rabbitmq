@@ -1,6 +1,8 @@
 # LAYS RabbitMQ
 
-Docker image used by the LAYS project in order to provide a [RabbitMQ][1] instance.
+Docker image used by the LAYS project to provide a [RabbitMQ][1] instance.
+
+This project is no more maintened.
 
 ## License
 

@@ -2,7 +2,7 @@
 
 [Docker][docker] image used by the LAYS project and providing a [RabbitMQ][rabbitmq] instance.
 
-This project is no more maintened.
+This project is no more maintained.
 
 ## License
 
